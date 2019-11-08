@@ -1,5 +1,5 @@
 {
-    "name": "mgbyte/commerce",
+    "name": "mgbytebr/commerce",
     "authors": [
         {
             "name": "Gabriel Elias Milani",
@@ -13,7 +13,7 @@
     },
     "autoload": {
         "psr-4": {
-            "mgbyte\\": "vendor\\mgbyte\\php-classes\\src"
+            "MgByte\\": "vendor\\mgbytebr\\php-classes\\src"
         }
     }
 }

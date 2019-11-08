@@ -6,5 +6,5 @@ $vendorDir = dirname(dirname(__FILE__));
 $baseDir = dirname($vendorDir);
 
 return array(
-    'mgbyte\\' => array($vendorDir . '/mgbyte/php-classes/src'),
+    'MgByte\\' => array($vendorDir . '/mgbytebr/php-classes/src'),
 );
